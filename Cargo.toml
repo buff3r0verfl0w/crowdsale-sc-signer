@@ -1,0 +1,8 @@
+[package]
+name = "crowdsale-sc-signer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.7"
+ed25519-dalek = "1.0.1"
